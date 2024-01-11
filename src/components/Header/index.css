@@ -1,0 +1,10 @@
+/* Write your CSS code here */
+.header-container {
+  display: flex;
+  justify-content: center;
+  align-items: flex-start;
+  list-style-type: none;
+}
+.list-item{
+  margin-right:30px;
+}
